@@ -1,6 +1,6 @@
 ## Hello World! I'm Alip Anti Tilang👋
 
-![Alip Antitilang](imggithub-header-banner-1.png)
+![Alip Antitilang](img/github-header-banner-1.png)
 
 <!--
 **metri-alpida/metri-alpida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
