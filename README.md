@@ -39,13 +39,7 @@ Here are some ideas to get you started:
 
 
 ### My Blog
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aliffalindream) [![Wattpad](https://img.shields.io/badge/Wattpad-F96854?style=for-the-badge&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/aliffalindream)
-
-
-
-### 📋 My Github Stats
-![Alip Antitilang GitHub stats](https://github-readme-stats.vercel.app/api?username=alipantitilang&show_icons=true&theme=transparent)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aliffalindream) [![Wattpad](https://img.shields.io/badge/Wattpad-F96854?style=for-the-badge&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/aliffalindream/
 
 
 ### 📩 Contact me
